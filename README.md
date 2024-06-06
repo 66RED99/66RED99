@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Leon Joseph</h1>
 <h3 align="center">Full-stack developer skilled in Python, C, and JS. Built AI chatbot, Chrome extension, and bike rental system. ML intern at Aesthetix Innovations LLP. B.Tech in CS.</h3>
 <img align="right" alt="Coding" width="400" src="https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Coding-Questions--Thumbnails_1200x558.png">
