@@ -1,30 +1,25 @@
 <h1 align="center">Hi 👋, I'm Leon Joseph</h1>
 
 <h3 align="center">
-Backend Developer • Python/Django • AI (RAG + Graph-RAG) • AWS + Docker
+Backend Developer specializing in Django & scalable systems. Built Graph-RAG pipelines (Neo4j + embeddings), Account Aggregator backend workflows, and AI financial advisor agents using Google Gemini/OpenAI. Experienced with AWS, Docker, Celery, Redis, and PostgreSQL.
 </h3>
 
-<img align="right" alt="Coding" width="400"
-src="https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Coding-Questions--Thumbnails_1200x558.png">
+<img align="right" alt="Coding" width="400" src="https://www.codecademy.com/resources/blog/wp-content/uploads/2022/12/Coding-Questions--Thumbnails_1200x558.png">
 
-- 🔭 Currently working as a **Backend Developer at AGETWARE (Jan 2025 – Jan 2026)**  
-- ⚡ Built an **AI financial advisor** using **Google Gemini + OpenAI**, with multi-agent fallback & robust error handling  
-- 🧠 Developed an end-to-end **Graph-RAG pipeline** using **Django Ninja + Neo4j + embeddings**, improving retrieval speed by **77% (8.47s → 1.94s)**  
-- ☁️ Experienced with **AWS EC2, S3, Docker, GitLab CI/CD, Celery, Redis**  
-- 🛠️ Ask me about **Django, Django Ninja, Celery, Redis, Neo4j, RAG, APIs, Docker**  
-- 📫 How to reach me: **leonjoseph3030@gmail.com**
+- 🌱 I’m currently learning **System Design, LLM Engineering, and RAG/Knowledge Graphs**
+
+- 💬 Ask me about **Django, Django Ninja, Celery, Redis, PostgreSQL, Neo4j, Graph-RAG**
+
+- 📫 How to reach me **leonjoseph3030@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 
 <p align="left">
-  <a href="https://linkedin.com/in/leonjoseph3030" target="blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="leonjoseph3030"
-      height="30"
-      width="40" />
-  </a>
+<a href="https://linkedin.com/in/leonjoseph3030" target="blank">
+  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="leonjoseph3030" height="30" width="40" />
+</a>
 </p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
